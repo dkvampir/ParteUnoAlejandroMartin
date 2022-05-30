@@ -2,3 +2,4 @@ Pino
 Abedul
 Aloe Vera
 Manzano
+Cerezo
